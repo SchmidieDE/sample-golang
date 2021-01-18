@@ -1,0 +1,21 @@
+{
+  "name": "bitlytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Philipp Schmid",
+  "license": "ISC",
+  "dependencies": {
+    "country-from-iso2": "^1.0.1",
+    "express": "^4.17.1",
+    "googleapis": "^66.0.0",
+    "mongoose": "^5.11.8",
+    "needle": "^2.5.2",
+    "node-fetch": "^2.6.1",
+    "woeid": "^2.0.3"
+  }
+}
