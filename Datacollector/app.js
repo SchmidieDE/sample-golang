@@ -16,4 +16,4 @@ require('./FetchScripts/youtube')()
 require('./FetchScripts/coinstats')()
 require('./FetchScripts/twitter')()
 
-console.log("Läuft's ?")
+console.log("Läuft's ? ")
